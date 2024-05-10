@@ -1,0 +1,22 @@
+{
+    "name": "passport-protect-frame",
+    "version": "1.0.0",
+    "description": "Module to protect access to engage with Farcaster Frames using PassportXYZ's Unique Humanity Score",
+    "main": "PassportProtectFrame.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/lebraat/passport-protect-frame.git"
+    },
+    "keywords": [
+      "passport",
+      "farcaster",
+      "frame",
+      "proofofhumanity"
+    ],
+    "author": "@lebraat",
+    "license": "MIT"
+  }
+  
